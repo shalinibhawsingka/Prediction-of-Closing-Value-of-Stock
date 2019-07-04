@@ -2,7 +2,7 @@
 """
 Created on Mon Apr 29 10:49:49 2019
 
-@author: Chandramouli Das
+@author: Shalini Bhawsingka
 """
 import matplotlib.pyplot
 import numpy as np
